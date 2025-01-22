@@ -1,7 +1,6 @@
 # interactive_text_network
 
-This is an interactive network made in Gephi, exported using Sigma.js and dployes using Github Pages. For more information visit my <a href="https://github.com/callme-ph/AED-II/blob/main/U3T1/>> AED-II repository <\a> at U3T1.
-
+This is an interactive network made in Gephi, exported using Sigma.js and dployes using Github Pages. For more information visit my <a href="https://github.com/callme-ph/AED-II/blob/main/U3T1/> AED-II repository </a> at U3T1.
 Template provided by InteractiveVis project
 http://blogs.oii.ox.ac.uk/vis/
 https://github.com/oxfordinternetinstitute/InteractiveVis/
